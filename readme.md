@@ -10,6 +10,6 @@ README FILE FOR RUNNING ASSIGNMENT II ---- SUWAPHIT BUABUTHR
 3. go to app.R file and run the project from this file.
 
 source code : 
-    https://github.com/Bellypoly/eigen_face_pca.git
-    https://shorturl.at/cfCG4
+    - https://github.com/Bellypoly/eigen_face_pca.git
+    - https://shorturl.at/cfCG4
 demo : https://youtu.be/0TVNZ67xNdI
