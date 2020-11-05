@@ -1,0 +1,76 @@
+reference:
+- title: Skeleton Functions
+  desc: Page main elements
+  contents: 
+  - '`argonDashBody`'
+  - '`argonDashFooter`'
+  - '`argonFooterItem`'
+  - '`argonFooterMenu`'
+  - '`argonDashHeader`'
+  - '`argonDashNavbar`'
+  - '`argonDashPage`'
+  - '`argonDashSidebar`'
+  - '`argonDropNav`'
+  - '`argonDropNavDivider`'
+  - '`argonDropNavItem`'
+  - '`argonDropNavTitle`'
+  - '`argonSidebarDivider`'
+  - '`argonSidebarHeader`'
+  - '`argonSidebarMenu`'
+  - '`argonSidebarItem`'
+  - '`argonTabItem`'
+  - '`argonTabItems`'
+  
+- title: Cards
+  desc: Cards components ...
+  contents:
+  - '`argonInfoCard`'
+
+- title: Extras
+  desc: Extra elements
+  contents:
+  - '`argonAvatar`'
+  - '`argonAvatars`'
+  - '`argonTable`'
+  - '`argonTableItems`'
+  - '`argonTableItem`'
+
+- title: Gallery
+  desc: argonDash Gallery
+  contents:
+  - '`argonDashGallery`'
+  
+template:
+  params:
+    bootswatch: journal
+    
+    
+navbar:
+  structure:
+    left:
+    - home
+    - intro
+    - reference
+    - articles
+    - tutorials
+    - news
+    right: github
+  components:
+    home:
+      icon: fa-home fa-lg
+      href: index.html
+    reference:
+      text: Reference
+      href: reference/index.html
+    news:
+      text: Changelog
+      href: news/index.html
+    github:
+      icon: fa-github fa-lg
+      href: https://github.com/RinteRface/argonDash
+  
+
+news:
+ releases:
+ - text: "argonDash 0.2.0"
+ - text: "argonDash 0.1.0"
