@@ -12,4 +12,4 @@ README FILE FOR RUNNING ASSIGNMENT II ---- SUWAPHIT BUABUTHR
 source code : 
     - https://github.com/Bellypoly/eigen_face_pca.git
     - https://shorturl.at/cfCG4
-demo : https://youtu.be/0TVNZ67xNdI
+video demo : https://youtu.be/0TVNZ67xNdI
