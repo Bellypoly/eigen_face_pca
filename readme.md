@@ -9,6 +9,7 @@ README FILE FOR RUNNING ASSIGNMENT II ---- SUWAPHIT BUABUTHR
     doParallel
 3. go to app.R file and run the project from this file.
 
+dataset : https://shorturl.at/bfPT9
 source code : 
     - https://github.com/Bellypoly/eigen_face_pca.git
     - https://shorturl.at/cfCG4
